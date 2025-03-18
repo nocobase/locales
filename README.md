@@ -47,7 +47,7 @@
 | nb-NO         | Norsk bokmål   |
 | ne-NP         | नेपाली         |
 | nl-BE         | Vlaams         |
-| nl-NL         | Nederlands     |
+| [nl-NL](./nl-NL.json)         | Nederlands     |
 | pl-PL         | Polski         |
 | [pt-BR](./pt-BR.json)         | Português brasileiro |
 | pt-PT         | Português      |
