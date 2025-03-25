@@ -4899,58 +4899,6 @@
     "Webhook URL": "Webhook URL",
     "Webhook event": "Webhookイベント",
     "When webhook URL is called, the received parameters set up a structured transformation to be used in subsequent nodes.": "When webhook URL is called, the received parameters set up a structured transformation to be used in subsequent nodes.",
-    "see in": "参照先",
-    "Can only contain numbers, letters, underscores, and the first letter should be alphabet": {
-      "": "数字・英字・アンダースコアのみ使用可能、かつ先頭文字は英字である必要があります"
-    },
-    "Config HTTP response data": {
-      "": "HTTPレスポンスデータの設定"
-    },
-    "Configure webhook response": {
-      "": "Webhookレスポンスの設定"
-    },
-    "Content-type application/json are currently supported": {
-      "": "現在Content-type application/jsonに対応しています"
-    },
-    "Full URL or search parameters part both supported": {
-      " For example: \"?query1=item1&query2=item2\"": {
-        "": "完全URLまたは検索パラメータ部分をサポート。例：\"?query1=item1&query2=item2\""
-      }
-    },
-    "Header name support letters, numbers, underscores “_” or hyphens “-”, and the first letter should be alphabet": {
-      "": "ヘッダー名は英字・数字・アンダースコア「_」またはハイフン「-」を使用可能、先頭文字は英字である必要があります"
-    },
-    "If HTTP basic authentication is set, the response status code is 401 if the authentication fails": {
-      "": "HTTP基本認証を設定した場合、認証失敗時は401ステータスコードが返されます"
-    },
-    "Only \"application/json\" supported for \"Content-Type\"": {
-      "": "「Content-Type」には「application/json」のみ対応しています"
-    },
-    "Request data can only be used as variables in subsequent nodes after parsing configured": {
-      "": "リクエストデータは設定の解析後にのみ、後続ノードで変数として使用可能です"
-    },
-    "Synchronized workflows require the addition of a response node setting": {
-      " If you do not add a response node, the response status code is set to 200 if the workflow execution succeeds, and 500 if it fails": {
-        " If the workflow exception does not execute to the response node after the response node is added, the response status code is set to 500": {
-          "": "同期ワークフローには応答ノードの設定追加が必要です。応答ノードを追加しない場合、ワークフロー実行成功時はステータスコード200、失敗時は500が設定されます。応答ノード追加後、ワークフロー異常により応答ノードまで実行されない場合、ステータスコード500が設定されます"
-        }
-      }
-    },
-    "These request data can only be used as variables in next nodes after the configuration has been parsed": {
-      "": "これらのリクエストデータは設定解析後にのみ後続ノードで変数として使用可能です"
-    },
-    "Third-party calls to Webhook URLs trigger process execution": {
-      " Suitable for third-party systems to initiate notifications, payment callbacks, messages, etc": {
-        "": "Webhook URLへのサードパーティ呼び出しによりプロセス実行をトリガーします。サードパーティシステムからの通知開始、支払いコールバック、メッセージ等に適しています"
-      }
-    },
-    "Username and password need to be put in URL like \"{{url}}\"": {
-      " See: <1>MDN reference</1>": {
-        "": "ユーザー名とパスワードは\"{{url}}\"のようなURL形式で設定する必要があります。参照: <1>MDNリファレンス</1>"
-      }
-    },
-    "When webhook URL is called, the received parameters set up a structured transformation to be used in subsequent nodes": {
-      "": "Webhook URL呼び出し時に受信したパラメータを構造化変換し、後続ノードで使用できるように設定します"
-    }
+    "see in": "参照先"
   }
 }
