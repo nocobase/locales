@@ -28,7 +28,7 @@
 | hr-HR         | Hrvatski jezik |
 | hu-HU         | Magyar         |
 | hy-AM         | Հայերեն        |
-| id-ID         | Bahasa Indonesia |
+| [id-ID](./id-ID.json)          | Bahasa Indonesia |
 | is-IS         | Íslenska       |
 | [it-IT](./it-IT.json)         | Italiano       |
 | [ja-JP](./ja-JP.json)         | 日本語         |
