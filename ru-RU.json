@@ -1096,7 +1096,7 @@
     "{{count}} more items": "еще {{count}} элементов",
     "≠": "≠",
     "≤": "≤",
-    "≥": "≥"
+    "≥": "≥",
     "After successful submission, the selected data blocks will be automatically refreshed.": "После успешной отправки выбранные блоки данных будут автоматически обновлены.",
     "Click the \"UI Editor\" icon in the upper right corner to enter the UI Editor mode": "Нажмите на значок \"Редактор пользовательского интерфейса\" в правом верхнем углу, чтобы войти в режим редактора пользовательского интерфейса",
     "Dependencies check failed": "Проверка зависимостей не удалась",
@@ -1125,7 +1125,7 @@
     "Plugin settings": "Настройки плагина",
     "Roles & Permissions": "Роли и разрешения",
     "The current user has no roles. Please try another account.": "У текущего пользователя нет ролей. Попробуйте другой аккаунт.",
-    "The user role does not exist. Please try signing in again": "Роль пользователя не существует. Попробуйте войти снова."
+    "The user role does not exist. Please try signing in again": "Роль пользователя не существует. Попробуйте войти снова.",
     "Independent roles": "Независимые роли",
     "Allow roles union": "Разрешить объединение ролей",
     "Roles union only": "Только объединение ролей",
@@ -1136,7 +1136,7 @@
     "Role mode doc": "https://docs.nocobase.com/handbook/acl/manual",
     "Do not use role union. Users need to switch between their roles individually.": "Не использовать объединение ролей. Пользователям нужно переключаться между ролями по отдельности.",
     "Allow users to use role union, which means they can use permissions from all their roles simultaneously, or switch between individual roles.": "Разрешить пользователям использовать объединение ролей, то есть они могут одновременно использовать права всех своих ролей или переключаться между отдельными ролями.",
-    "Force users to use only role union. They cannot switch between individual roles.": "Принудительно использовать только объединение ролей. Переключение между отдельными ролями недоступно.",
+    "Force users to use only role union. They cannot switch between individual roles.": "Принудительно использовать только объединение ролей. Переключение между отдельными ролями недоступно."
   },
   "@nocobase/plugin-action-bulk-edit": {
     "Bulk edit": "Массовое редактирование",
@@ -1269,7 +1269,7 @@
     "Failed to import row {{row}}, {{message}}, row data: {{data}}": "Не удалось импортировать строку {{row}}, {{message}}, данные строки: {{data}}",
     "Upload placeholder": "Перетащите файл сюда или нажмите для загрузки, размер файла не должен превышать 80 МБ",
     "import-error": "Не удалось импортировать строку {{rowIndex}}, данные строки: {{rowData}}, причина: {{causeMessage}}",
-    "{{successCount}} records have been successfully imported": "{{successCount}} записей успешно импортировано"
+    "{{successCount}} records have been successfully imported": "{{successCount}} записей успешно импортировано",
     "Download tips": "- Скачайте шаблон и заполните данные в соответствии с форматом \\r\\n - Импортируется только первый лист \\r\\n - Не изменяйте заголовки шаблона, чтобы избежать ошибок импорта",
     "Failed to import row {{row}} {{message}} row data: {{data}}": "Не удалось импортировать строку {{row}} {{message}} данные строки: {{data}}",
     "import-error": "Не удалось импортировать строку {{rowIndex}} данные строки: {{rowData}} причина: {{causeMessage}}",
@@ -2077,7 +2077,7 @@
   "@nocobase/plugin-data-source-external-mariadb": {
     "Allow adding and modifying collection": "Разрешить добавление и изменение коллекции",
     "Collections": "Коллекции",
-    "Connection successful'": "Соединение установлено успешно",
+    "Connection successful": "Соединение установлено успешно",
     "Data source display name": "Отображаемое имя источника данных",
     "Data source name": "Имя источника данных",
     "Database": "База данных",
@@ -2102,7 +2102,7 @@
   "@nocobase/plugin-data-source-external-mssql": {
     "Allow adding and modifying collection": "Разрешить добавление и изменение коллекции",
     "Collections": "Коллекции",
-    "Connection successful'": "Соединение установлено успешно",
+    "Connection successful": "Соединение установлено успешно",
     "Data source display name": "Отображаемое имя источника данных",
     "Data source name": "Имя источника данных",
     "Database": "База данных",
@@ -2129,7 +2129,7 @@
   "@nocobase/plugin-data-source-external-mysql": {
     "Allow adding and modifying collection": "Разрешить добавление и изменение коллекции",
     "Collections": "Коллекции",
-    "Connection successful'": "Соединение успешно'",
+    "Connection successful": "Соединение успешно'",
     "Data source display name": "Отображаемое имя источника данных",
     "Data source name": "Имя источника данных",
     "Database": "База данных",
@@ -2155,7 +2155,7 @@
     "Allow adding and modifying collection": "Разрешить добавление и изменение коллекции",
     "Client directory": "Каталог клиента",
     "Collections": "Коллекции",
-    "Connection successful'": "Соединение успешно'",
+    "Connection successful": "Соединение успешно'",
     "Data source display name": "Отображаемое имя источника данных",
     "Data source name": "Имя источника данных",
     "DataBase": "База данных",
@@ -2191,7 +2191,7 @@
     "Client certificate path": "Путь к клиентскому сертификату",
     "Client key path": "Путь к клиентскому ключу",
     "Collections": "Коллекции",
-    "Connection successful'": "Соединение успешно'",
+    "Connection successful": "Соединение успешно'",
     "Data source display name": "Отображаемое имя источника данных",
     "Data source name": "Имя источника данных",
     "Database": "База данных",
@@ -2221,7 +2221,7 @@
   "@nocobase/plugin-data-source-kingbase": {
     "Allow adding and modifying collection": "Разрешить добавление и изменение коллекции",
     "Collections": "Коллекции",
-    "Connection successful'": "Соединение успешно",
+    "Connection successful": "Соединение успешно",
     "Data source display name": "Отображаемое имя источника данных",
     "Data source name": "Имя источника данных",
     "Database": "База данных",
@@ -2299,7 +2299,7 @@
     "BaseURL": "Базовый URL",
     "Blacklist": "Черный список",
     "Clear": "Очистить",
-    "Connection successful'": "Соединение успешно",
+    "Connection successful": "Соединение успешно",
     "Convert third-party response results to NocoBase standard": "Преобразовать результаты ответа стороннего API в стандарт NocoBase",
     "Create collection": "Создать коллекцию",
     "Current page": "Текущая страница",
@@ -4353,6 +4353,10 @@
     "Mark as unread": "Отметить как непрочитанное",
     "Mark all as read": "Отметить все как прочитанные",
     "CC to me": "Копия мне"
+  },
+    "@nocobase/plugin-two-factor-authentication": {
+    "Two-factor authentication": "Двухфакторная аутентификация",
+    "Enforce 2FA for all users": "Обеспечить 2FA для всех пользователей"
   },
   "cronstrue": {
     "anErrorOccuredWhenGeneratingTheExpressionD": "Произошла ошибка во время генерации описания выражения. Проверьте синтаксис крон-выражения.",
