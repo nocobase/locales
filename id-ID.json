@@ -597,7 +597,7 @@
     "Menu item icon": "Ikon item menu",
     "Menu item name": "Nama item menu",
     "Menu item title": "Judul item menu",
-    "Menu permissions": "Izin menu"
+    "Menu permissions": "Izin menu",
     "Message popup close method": "Metode tutup pop-up pesan",
     "Middle": "Tengah",
     "Millisecond": "Milidetik",
@@ -1197,7 +1197,7 @@
     "Failed to import row {{row}}, {{message}}, row data: {{data}}": "Gagal mengimpor baris {{row}}, {{message}}, data baris: {{data}}",
     "Field description": "Deskripsi bidang",
     "Field description placeholder": "Masukkan deskripsi bidang",
-    "Field not found: {{field}}": "Bidang tidak ditemukan: {{field}}"
+    "Field not found: {{field}}": "Bidang tidak ditemukan: {{field}}",
     "Field {{fieldName}} does not exist": "Bidang {{fieldName}} tidak ada",
     "File size cannot exceed 10M": "Ukuran file tidak boleh melebihi 10M",
     "Header mismatch at column {{column}}: expected \"{{expected}}\", but got \"{{actual}}\"": "Ketidaksesuaian header pada kolom {{column}}: diharapkan \"{{expected}}\", tetapi didapatkan \"{{actual}}\"",
@@ -1702,7 +1702,7 @@
     "Click or drag file to this area to upload": "Klik atau seret file ke area ini untuk mengunggah",
     "Configuration": "Konfigurasi",
     "Delete": "Hapus",
-    "Deleted successfully": "Berhasil dihapus"
+    "Deleted successfully": "Berhasil dihapus",
     "Download": "Unduh",
     "File size": "Ukuran file",
     "Learn more": "Pelajari lebih lanjut",
@@ -2297,7 +2297,7 @@
   },
   "@nocobase/plugin-data-visualization": {
     "Abbreviation": "Singkatan",
-    "Actions": "Aksi"
+    "Actions": "Aksi",
     "Add chart": "Tambah grafik",
     "Add custom field": "Tambah bidang kustom",
     "Add field": "Tambah bidang",
@@ -2897,7 +2897,7 @@
     "Readonly": "Hanya baca",
     "Required": "Wajib",
     "Save": "Simpan",
-    "Saved failed": "Gagal disimpan"
+    "Saved failed": "Gagal disimpan",
     "Saved successfully": "Berhasil disimpan",
     "Set default zoom level": "Atur tingkat zoom default",
     "Start point": "Titik awal",
@@ -3435,7 +3435,7 @@
     "Full form data": "Data formulir lengkap",
     "General failed but should do another try.": "Umumnya gagal tetapi harus mencoba lagi.",
     "Go back": "Kembali",
-    "Hours": "Jam"
+    "Hours": "Jam",
     "If checked, when there are multiple records in the query result, an array will be returned as the result, which can be operated on one by one using a loop node. Otherwise, only one record will be returned.": "Jika dicentang, ketika ada beberapa catatan dalam hasil kueri, sebuah array akan dikembalikan sebagai hasilnya, yang dapat dioperasikan satu per satu menggunakan node loop. Jika tidak, hanya satu catatan yang akan dikembalikan.",
     "If the number of loop calls is too large, there will be performance issues.": "Jika jumlah panggilan loop terlalu besar, akan ada masalah kinerja.",
     "Inside of \"No\" branch": "Di dalam cabang \"Tidak\"",
@@ -4197,7 +4197,7 @@
     "commaOnlyInX0": ", hanya di %s",
     "commaOnlyOnX0": ", hanya pada %s",
     "commaStartingX0": ", mulai %s",
-    "commaX0ThroughX1": ", %s hingga %s"
+    "commaX0ThroughX1": ", %s hingga %s",
     "commaYearX0ThroughYearX1": null,
     "daysOfTheWeek": [
       "Minggu",
@@ -4317,5 +4317,5 @@
     ],
     "weekOption": "minggu",
     "yearOption": "tahun"
-  }
+  }
 }
