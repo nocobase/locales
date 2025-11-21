@@ -722,6 +722,10 @@
     "Please configure the duplicate fields": "Пожалуйста, настройте поля для дублирования",
     "Please confirm the SQL statement first": "Пожалуйста, сначала подтвердите SQL-запрос",
     "Please fill in the iframe URL": "Пожалуйста, заполните URL iframe",
+    "Edit iframe": "Редактировать iframe",
+    "Mode": "Режим",
+    "Specifies a Permissions Policy for the <iframe>. The policy defines what features are available to the <iframe> (for example, access to the microphone, camera, battery, web-share, etc.) based on the origin of the request.": "Задаёт политику разрешений для <iframe>. Политика определяет, какие функции доступны для <iframe> (например, доступ к микрофону, камере, аккумулятору, веб-ресурсам и т. д.) в зависимости от источника запроса.",
+    "Block Linkage rules: "Правила отображения блока",
     "Please select the records to be updated": "Пожалуйста, выберите записи для обновления",
     "Please select time or variable": "Пожалуйста, выберите время или переменную",
     "Please use a valid SELECT or WITH AS statement": "Пожалуйста, используйте корректный оператор SELECT или WITH AS",
@@ -2651,11 +2655,30 @@
     "To": "Кому",
     "Today": "Сегодня",
     "Trash": "Корзина",
-    "True": "Верно",
+    "True": "Прочитанное",
     "Upload": "Загрузить",
     "Write Email": "Написать письмо",
     "is not a email format": "не является форматом email",
-    "row {{index}}": "строка {{index}}"
+    "row {{index}}": "строка {{index}}",
+    "False": "Непрочитанное",
+    "Labels": "Метки",
+    "Label": "Метка",
+    "Color": "Цвет",
+    "Name": "Название",
+    "Note": "Примечание",
+    "Todo": "Дела",
+    "Messages that have been in Trash more than 30 days will be automatically deleted": "Сообщения, находящиеся в корзине более 30 дней, будут автоматически удалены.",
+    "Settings": "Настройки",
+    "Mailbox": "Почтовый ящик",
+    "Templates": "Шаблоны",
+    "Signature": "Подпись",
+    "Type": "Тип",
+    "Mass Send Tracking": "Отслеживание рассылки",
+    "Mass send": "Рассылка",
+    "Message": "Сообщение",
+    "Status": "Статус",
+    "Email manager": "Управление электронной почтой",
+    "Save draft": "Сохранить черновик"
   },
   "@nocobase/plugin-embed": {
     "Copy Failed": "Копирование не удалось",
@@ -2721,7 +2744,7 @@
     "Syntax references": "Справка по синтаксису"
   },
   "@nocobase/plugin-field-m2m-array": {
-    "Many to many (array)": "Многие ко многим (Many to many (array))",
+    "Many to many (array)": "Многие ко многим (массив)",
     "Many to many (array) description": "Позволяет создавать отношения многие-ко-многим между двумя моделями, сохраняя массив (array) уникальных ключей целевой модели."
   },
   "@nocobase/plugin-field-markdown-vditor": {
