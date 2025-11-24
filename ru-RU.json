@@ -1118,7 +1118,14 @@
     "Save as reference template": "Сохранить как шаблон ссылки",
     "Select data blocks to refresh": "Выберите блоки данных для обновления",
     "Support for a single or bulk upload, file size should not exceed": "Поддержка одиночной или массовой загрузки, размер файла не должен превышать",
-    "Template": "Шаблон"
+    "Template": "Шаблон",
+    "Client Id": "ID клиента",
+    "Client Secret": "Секретный ключ(пароль) клиента",
+    "View messages by department": "Просмотр сообщений по отделам",
+    "This feature relies on the plugin-departments. Once enabled, the department owner can view the emails of all subordinate users.": "Эта функция основана на плагине Отделы. После включения владелец отдела может просматривать электронную почту всех подчинённых пользователей.",
+    "Search fields": "Поля поиска",
+    "Email address search setting": "Настройка поиска адреса электронной почты",
+    "Service provider": "Почтовый сервис"
   },
   "@nocobase/plugin-acl": {
     "Data sources": "Источники данных",
@@ -2678,7 +2685,10 @@
     "Message": "Сообщение",
     "Status": "Статус",
     "Email manager": "Управление электронной почтой",
-    "Save draft": "Сохранить черновик"
+    "Save draft": "Сохранить черновик",
+    "Email field": "Поле электронной почты",
+    "Email sync setting": "Настройка синхронизации электронной почты",
+    "Sync Interval (minutes)": "Интервал синхронизации (минуты)"
   },
   "@nocobase/plugin-embed": {
     "Copy Failed": "Копирование не удалось",
