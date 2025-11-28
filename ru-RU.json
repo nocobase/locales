@@ -4160,7 +4160,9 @@
     "Continue after any branch succeeded": "Продолжить после успешного завершения любой из ветвей",
     "Continue after any branch succeeded, or exit after any branch failed.": "Продолжить после успеха любой из ветвей или выйти после неудачи любой из ветвей.",
     "Mode": "Режим",
-    "Parallel branch": "Параллельная шлюз",
+    "Parallel branch": "Параллельный шлюз",
+    "Run all branches (ignore failures)": "Выполнить все ветви (игнорировать неудачи)",
+    "Always continue after all branches end, regardless of success or failure.": "Всегда продолжать после завершения всех ветвей, независимо от успеха или неудачи.",
     "Run multiple branch processes in parallel.": "Запустить несколько процессов ветвей параллельно."
   },
   "@nocobase/plugin-workflow-request": {
