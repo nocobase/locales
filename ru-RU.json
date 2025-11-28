@@ -1138,7 +1138,7 @@
     "Limit": "Ограничение",
     "Enter value": "Введите значение",
     "Base": "Базовое значение",
-    "References": "Документация",
+    "References": "Документация"
   },
   "@nocobase/plugin-acl": {
     "Data sources": "Источники данных",
